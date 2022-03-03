@@ -25,7 +25,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 8a4b9ebb-388c-c40d-4219-41b68c523ff8 "Introduction, Uberlingen; Class Description (PDF)" >}}
+{{% resource_link 8a4b9ebb-388c-c40d-4219-41b68c523ff8 "Introduction, Uberlingen; Class Description (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -34,7 +34,7 @@ TOPICS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link ea17c9d9-1ee8-820d-10f5-2195f2798b01 "Introduction to Accident Causality, Bhopal, hindsight bias (PDF - 1.7MB)" >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link ea17c9d9-1ee8-820d-10f5-2195f2798b01 "Introduction to Accident Causality, Bhopal, hindsight bias (PDF - 1.7MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +43,7 @@ TOPICS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 150bcb2e-7d3b-4d6a-f077-9a9ce07d35af "Discuss Citichem Causes, hindsight bias (PDF - 1.5MB)" >}}
+{{% resource_link 150bcb2e-7d3b-4d6a-f077-9a9ce07d35af "Discuss Citichem Causes, hindsight bias (PDF - 1.5MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,7 +70,7 @@ More on STAMP, systems theory, accident models
 6
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link d2501c7b-1ce1-3719-f388-12e6d249dbee "CAST and Accident analysis (PDF - 1.3MB)" >}}
+{{% resource_link d2501c7b-1ce1-3719-f388-12e6d249dbee "CAST and Accident analysis (PDF - 1.3MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +79,7 @@ More on STAMP, systems theory, accident models
 7
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link bd2ead42-7bf9-8282-a267-127533acf802 "More on CAST (PDF)" >}}
+{{% resource_link bd2ead42-7bf9-8282-a267-127533acf802 "More on CAST (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +88,7 @@ More on STAMP, systems theory, accident models
 8
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 398a8339-b4aa-e04a-89a7-f9bf13e52bab "Traditional Hazard Analysis (HA) (PDF - 5.5MB)" >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 398a8339-b4aa-e04a-89a7-f9bf13e52bab "Traditional Hazard Analysis (HA) (PDF - 5.5MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -106,7 +106,7 @@ Traditional Hazard Analysis (HA) (cont.)
 10
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 1da33a7b-fcaa-84de-6bf1-3d874377625e "Systems Theoretic Process Analysis (STPA) intro, basic components (PDF - 2.6MB)" >}}
+{{% resource_link 1da33a7b-fcaa-84de-6bf1-3d874377625e "Systems Theoretic Process Analysis (STPA) intro, basic components (PDF - 2.6MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -133,7 +133,7 @@ STPA (cont.)
 13
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 66148936-7b4e-73b3-73c7-2e8ebcac3d55 "STPA and review projects (PDF)" >}}
+{{% resource_link 66148936-7b4e-73b3-73c7-2e8ebcac3d55 "STPA and review projects (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -142,7 +142,7 @@ STPA (cont.)
 14
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 6d88a0eb-8b9e-2b06-501e-bb06f75254d7 "Design for safety (PDF)" >}}
+{{% resource_link 6d88a0eb-8b9e-2b06-501e-bb06f75254d7 "Design for safety (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
