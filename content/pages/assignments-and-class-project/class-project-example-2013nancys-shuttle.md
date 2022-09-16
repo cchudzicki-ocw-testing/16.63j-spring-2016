@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides an example of a class project completed for the
+  course.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Assignments and Class Project

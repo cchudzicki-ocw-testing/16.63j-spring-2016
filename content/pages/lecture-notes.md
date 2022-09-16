@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics along with the slide
+  presentations used for some sessions.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -34,7 +36,7 @@ TOPICS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link ea17c9d9-1ee8-820d-10f5-2195f2798b01 "Introduction to Accident Causality, Bhopal, hindsight bias (PDF - 1.7MB)" %}}
+{{% resource_link ea17c9d9-1ee8-820d-10f5-2195f2798b01 "Introduction to Accident Causality, Bhopal, hindsight bias (PDF - 1.7MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +90,7 @@ More on STAMP, systems theory, accident models
 8
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 398a8339-b4aa-e04a-89a7-f9bf13e52bab "Traditional Hazard Analysis (HA) (PDF - 5.5MB)" %}}
+{{% resource_link 398a8339-b4aa-e04a-89a7-f9bf13e52bab "Traditional Hazard Analysis (HA) (PDF - 5.5MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

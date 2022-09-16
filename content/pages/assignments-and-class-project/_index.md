@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides instructions for the course assignments.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Assignments and Class Project
